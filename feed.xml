@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:media="http://search.yahoo.com/mrss/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:snf="http://www.smartnews.be/snf">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:snf="http://www.smartnews.be/snf">
 <channel>
   <title><![CDATA[Entertainment News]]></title>
   <link>https://www.cabletv.com/blog/category/entertainment-news</link>
@@ -17,10 +13,10 @@
     <guid isPermaLink="false">6a9a6d92d82ea31f2a9a6c18faa3548b</guid>
     <dc:creator><![CDATA[Taylor Kujawa]]></dc:creator>
     <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2023/12/Watch-MLS-Playoffs-jpg.avif" style="width:100%;" /><div>It’s survival of the fittest as Major League Soccer (MLS) clubs fight for a place in the MLS Cup Final. The MLS Playoffs will air on MLS Season Pass and FOX Sports networks starting in October, with full coverage details, kickoff schedule, streaming links and highlights.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2023/12/Watch-MLS-Playoffs-jpg.avif" style="width:100%;" /><div>It’s survival of the fittest as Major League Soccer (MLS) clubs fight for a place in the MLS Cup Final. The MLS Playoffs will air on MLS Season Pass and FOX Sports networks starting in October, with full coverage details, kickoff schedule, streaming links and highlights.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2023/12/Watch-MLS-Playoffs-jpg.avif" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2023/12/Watch-MLS-Playoffs-jpg.avif" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2023/12/Watch-MLS-Playoffs.jpg" style="width:100%;" /><div>It’s survival of the fittest as Major League Soccer (MLS) clubs fight for a place in the MLS Cup Final. The MLS Playoffs will air on MLS Season Pass and FOX Sports networks starting in October, with full coverage details, kickoff schedule, streaming links and highlights.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2023/12/Watch-MLS-Playoffs.jpg" style="width:100%;" /><div>It’s survival of the fittest as Major League Soccer (MLS) clubs fight for a place in the MLS Cup Final. The MLS Playoffs will air on MLS Season Pass and FOX Sports networks starting in October, with full coverage details, kickoff schedule, streaming links and highlights.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2023/12/Watch-MLS-Playoffs.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2023/12/Watch-MLS-Playoffs.jpg" />
   </item>
   <item>
     <title><![CDATA[How To Watch Alabama Football]]></title>
@@ -28,10 +24,10 @@
     <guid isPermaLink="false">1c61ea261b15f255da164be496c1752f</guid>
     <dc:creator><![CDATA[Eric Chiu]]></dc:creator>
     <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-alabama-crimson-tide-football.webp" style="width:100%;" /><div>Roll Tide! Check out our college football schedule guide for the Alabama Crimson Tide.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-alabama-crimson-tide-football.webp" style="width:100%;" /><div>Roll Tide! Check out our college football schedule guide for the Alabama Crimson Tide.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-alabama-crimson-tide-football.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-alabama-crimson-tide-football.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-alabama-crimson-tide-football.jpg" style="width:100%;" /><div>Roll Tide! Check out our college football schedule guide for the Alabama Crimson Tide.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-alabama-crimson-tide-football.jpg" style="width:100%;" /><div>Roll Tide! Check out our college football schedule guide for the Alabama Crimson Tide.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-alabama-crimson-tide-football.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-alabama-crimson-tide-football.jpg" />
   </item>
   <item>
     <title><![CDATA[How To Watch the 2025 CFL Season]]></title>
@@ -39,10 +35,10 @@
     <guid isPermaLink="false">682d7b180c0b42f29a482cfad0d26737</guid>
     <dc:creator><![CDATA[Taylor Kujawa]]></dc:creator>
     <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/06/how-to-watch-cfl-games-2023.webp" style="width:100%;" /><div>Learn how to watch the 2025 CFL season with our coverage guide, including channel listings, streaming options, and key dates.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/06/how-to-watch-cfl-games-2023.webp" style="width:100%;" /><div>Learn how to watch the 2025 CFL season with our coverage guide, including channel listings, streaming options, and key dates.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/06/how-to-watch-cfl-games-2023.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/06/how-to-watch-cfl-games-2023.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/06/how-to-watch-cfl-games-2023.jpg" style="width:100%;" /><div>Learn how to watch the 2025 CFL season with our coverage guide, including channel listings, streaming options, and key dates.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/06/how-to-watch-cfl-games-2023.jpg" style="width:100%;" /><div>Learn how to watch the 2025 CFL season with our coverage guide, including channel listings, streaming options, and key dates.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/06/how-to-watch-cfl-games-2023.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/06/how-to-watch-cfl-games-2023.jpg" />
   </item>
   <item>
     <title><![CDATA[How To Watch Florida State Seminoles Football in 2025]]></title>
@@ -50,10 +46,10 @@
     <guid isPermaLink="false">965bfb9f7488c6c4552a1ba43c5991d4</guid>
     <dc:creator><![CDATA[Tyler Abbott]]></dc:creator>
     <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-florida-state-seminoles-football.webp" style="width:100%;" /><div>Our guide shows you how to watch Florida State Seminoles football games in 2025 including channels, streaming options, and schedule.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-florida-state-seminoles-football.webp" style="width:100%;" /><div>Our guide shows you how to watch Florida State Seminoles football games in 2025 including channels, streaming options, and schedule.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-florida-state-seminoles-football.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-florida-state-seminoles-football.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-florida-state-seminoles-football.jpg" style="width:100%;" /><div>Our guide shows you how to watch Florida State Seminoles football games in 2025 including channels, streaming options, and schedule.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-florida-state-seminoles-football.jpg" style="width:100%;" /><div>Our guide shows you how to watch Florida State Seminoles football games in 2025 including channels, streaming options, and schedule.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-florida-state-seminoles-football.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-florida-state-seminoles-football.jpg" />
   </item>
   <item>
     <title><![CDATA[How To Watch Army Black Knights Football in 2025]]></title>
@@ -61,10 +57,10 @@
     <guid isPermaLink="false">58d926bd02e3a112a962dcfca5f969fe</guid>
     <dc:creator><![CDATA[Trevor Wheelwright]]></dc:creator>
     <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-army-black-knights-football.webp" style="width:100%;" /><div>Watch the Army Black Knights football team in 2025 with our schedule and channel guide.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-army-black-knights-football.webp" style="width:100%;" /><div>Watch the Army Black Knights football team in 2025 with our schedule and channel guide.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-army-black-knights-football.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-army-black-knights-football.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-army-black-knights-football.jpg" style="width:100%;" /><div>Watch the Army Black Knights football team in 2025 with our schedule and channel guide.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-army-black-knights-football.jpg" style="width:100%;" /><div>Watch the Army Black Knights football team in 2025 with our schedule and channel guide.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-army-black-knights-football.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-army-black-knights-football.jpg" />
   </item>
   <item>
     <title><![CDATA[What To Watch This Week: Stream Our Top 7 TV and Movie Picks (Oct. 27–Nov. 2)]]></title>
@@ -72,10 +68,10 @@
     <guid isPermaLink="false">ed6af0cbd4b99a1e83f1d1914b005d2e</guid>
     <dc:creator><![CDATA[Timothy Downing]]></dc:creator>
     <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/10/FEATIMG_W2W-OCT27–NOV-2-opt.webp" style="width:100%;" /><div>Check out our top 7 TV and movie picks to stream between Oct. 27 and Nov. 2.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/10/FEATIMG_W2W-OCT27–NOV-2-opt.webp" style="width:100%;" /><div>Check out our top 7 TV and movie picks to stream between Oct. 27 and Nov. 2.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/10/FEATIMG_W2W-OCT27–NOV-2-opt.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/10/FEATIMG_W2W-OCT27–NOV-2-opt.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/10/FEATIMG_W2W-OCT27-NOV-2-opt.jpg" style="width:100%;" /><div>Check out our top 7 TV and movie picks to stream between Oct. 27 and Nov. 2.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/10/FEATIMG_W2W-OCT27-NOV-2-opt.jpg" style="width:100%;" /><div>Check out our top 7 TV and movie picks to stream between Oct. 27 and Nov. 2.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/10/FEATIMG_W2W-OCT27-NOV-2-opt.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/10/FEATIMG_W2W-OCT27-NOV-2-opt.jpg" />
   </item>
   <item>
     <title><![CDATA[Late-Night TV Show Lineups This Week: Colbert, Fallon, Meyers, and More (Oct. 27–Nov. 2)]]></title>
@@ -83,10 +79,10 @@
     <guid isPermaLink="false">5e1b32a3fa8b48ba992a12e87f67c345</guid>
     <dc:creator><![CDATA[Kai Chesson]]></dc:creator>
     <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/10/Late-Night-TV-Lineups-Oct27-Nov2.webp" style="width:100%;" /><div>Discover who’s on your favorite late-night shows this week (Oct. 27–Nov. 2).</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/10/Late-Night-TV-Lineups-Oct27-Nov2.webp" style="width:100%;" /><div>Discover who’s on your favorite late-night shows this week (Oct. 27–Nov. 2).</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/10/Late-Night-TV-Lineups-Oct27-Nov2.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/10/Late-Night-TV-Lineups-Oct27-Nov2.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/10/Late-Night-TV-Lineups-Oct27-Nov2.jpg" style="width:100%;" /><div>Discover who’s on your favorite late-night shows this week (Oct. 27–Nov. 2).</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/10/Late-Night-TV-Lineups-Oct27-Nov2.jpg" style="width:100%;" /><div>Discover who’s on your favorite late-night shows this week (Oct. 27–Nov. 2).</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/10/Late-Night-TV-Lineups-Oct27-Nov2.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/10/Late-Night-TV-Lineups-Oct27-Nov2.jpg" />
   </item>
   <item>
     <title><![CDATA[How To Watch BYU Cougars Football in 2025]]></title>
@@ -94,10 +90,10 @@
     <guid isPermaLink="false">6a7df6ecca3d1c2440dc3d965c4eeaa5</guid>
     <dc:creator><![CDATA[Eric Chiu]]></dc:creator>
     <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-byu-cougars-football.webp" style="width:100%;" /><div>Find out how to watch BYU Cougars football games in 2025 with our schedule guide.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-byu-cougars-football.webp" style="width:100%;" /><div>Find out how to watch BYU Cougars football games in 2025 with our schedule guide.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-byu-cougars-football.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-byu-cougars-football.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-byu-cougars-football.jpg" style="width:100%;" /><div>Find out how to watch BYU Cougars football games in 2025 with our schedule guide.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-byu-cougars-football.jpg" style="width:100%;" /><div>Find out how to watch BYU Cougars football games in 2025 with our schedule guide.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-byu-cougars-football.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2020/01/how-to-watch-byu-cougars-football.jpg" />
   </item>
   <item>
     <title><![CDATA[NFL Plus Review 2025: Score Live NFL Action on the Go]]></title>
@@ -105,10 +101,10 @@
     <guid isPermaLink="false">183f9259a508458487e9fdc6def55e09</guid>
     <dc:creator><![CDATA[Kelly Woo]]></dc:creator>
     <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/09/NFL-Plus-Review.webp" style="width:100%;" /><div>We review NFL Plus for 2025 and tell you how to watch live NFL games on the go.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/09/NFL-Plus-Review.webp" style="width:100%;" /><div>We review NFL Plus for 2025 and tell you how to watch live NFL games on the go.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/09/NFL-Plus-Review.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/09/NFL-Plus-Review.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/09/NFL-Plus-Review.jpg" style="width:100%;" /><div>We review NFL Plus for 2025 and tell you how to watch live NFL games on the go.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/09/NFL-Plus-Review.jpg" style="width:100%;" /><div>We review NFL Plus for 2025 and tell you how to watch live NFL games on the go.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/09/NFL-Plus-Review.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/09/NFL-Plus-Review.jpg" />
   </item>
   <item>
     <title><![CDATA[From Premier League to MLS: How To Watch Soccer on TV in the US]]></title>
@@ -116,10 +112,10 @@
     <guid isPermaLink="false">a907f9d6bf6a420aa8d5fe474f5f4da9</guid>
     <dc:creator><![CDATA[Taylor Kujawa]]></dc:creator>
     <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-soccer-on-tv.webp" style="width:100%;" /><div>Learn how to watch soccer from Premier League to MLS on TV in the US.</div></div>]]></description>
-    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-soccer-on-tv.webp" style="width:100%;" /><div>Learn how to watch soccer from Premier League to MLS on TV in the US.</div></div>]]></content:encoded>
-    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-soccer-on-tv.webp" />
-    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-soccer-on-tv.webp" />
+    <description><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-soccer-on-tv.jpg" style="width:100%;" /><div>Learn how to watch soccer from Premier League to MLS on TV in the US.</div></div>]]></description>
+    <content:encoded><![CDATA[<div><img src="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-soccer-on-tv.jpg" style="width:100%;" /><div>Learn how to watch soccer from Premier League to MLS on TV in the US.</div></div>]]></content:encoded>
+    <media:content medium="image" url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-soccer-on-tv.jpg" />
+    <media:thumbnail url="https://www.cabletv.com/app/uploads/2024/08/how-to-watch-soccer-on-tv.jpg" />
   </item>
 </channel>
 </rss>
